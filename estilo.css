@@ -1,0 +1,34 @@
+body {
+    background: linear-gradient(to bottom right, #4e54c8, #8f94fb);
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .form-signin {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  }
+
+
+  body {
+    background-color: #f0f0f0; /* Color de fondo gris claro */
+  }
+
+
+  .nav-bar {
+    background-color: #f2f2f2;
+    padding: 10px 20px;
+    text-align: left;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #0077cc;
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+  }
